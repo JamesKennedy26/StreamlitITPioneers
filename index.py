@@ -2,7 +2,7 @@ import streamlit as st
 
 def intro():
     import streamlit as st
-    st.title("Select a name to begin!")
+    st.title("Select a name to begin your learning journey!")
 
 def John_Backus():
     import streamlit as st
